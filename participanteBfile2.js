@@ -1,1 +1,1 @@
-console.log("Este es el archivo 2 del participante B")
+console.log("Modificado participante A 😁");

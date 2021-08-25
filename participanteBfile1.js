@@ -1,1 +1,1 @@
-console.log("Este es el archivo 1 del participante B")
+console.log("Alkemy rocks🔥🔥🔥🔥");
